@@ -1,0 +1,42 @@
+[
+  {
+    "ID": "fdf1dd91a0b9",
+    "name": "Product",
+    "slug": "product",
+    "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
+    "updatedAt": "2024-01-20T10:06:41.523Z"
+  },
+  {
+    "ID": "fdf1dd91a0c0",
+    "name": "Ecosystem",
+    "slug": "ecosystem",
+    "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
+    "updatedAt": "2024-01-20T10:06:41.523Z"
+  },
+  {
+    "ID": "fdf1dd91a0c1",
+    "name": "How to guides",
+    "slug": "how-to-guides",
+    "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
+    "updatedAt": "2024-01-20T10:06:41.523Z"
+  },
+  {
+    "ID": "fdf1dd91a0c2",
+    "name": "Events",
+    "slug": "events",
+    "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
+    "updatedAt": "2024-01-20T10:06:41.523Z"
+  },
+  {
+    "ID": "fdf1dd91a0c3",
+    "name": "Company",
+    "slug": "company",
+    "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
+    "updatedAt": "2024-01-20T10:06:41.523Z"
+  }
+]
