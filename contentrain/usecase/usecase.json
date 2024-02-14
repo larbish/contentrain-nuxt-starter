@@ -1,0 +1,16 @@
+[
+  {
+    "ID": "92e8eb7c453c",
+    "createdAt": "2024-01-20T17:37:24.000Z",
+    "updatedAt": "2024-01-22T11:15:52.477Z",
+    "status": "publish",
+    "slug": "contentrain-use-case",
+    "title": "Streamlining Content Management with Contentrain: A Success Story of \"Bloom Digital Agency\"",
+    "description": "Bloom Digital Agency, a mid-sized digital marketing agency, faced challenges managing their diverse content needs. With a growing client list and an expanding portfolio of services, including SEO, social media marketing, and content creation, they needed a solution that could streamline their content management process, enhance collaboration among teams, and ensure consistency across client projects.",
+    "category": "use case",
+    "imagesrc": "public/images/1705782485302_cover.svg",
+    "imagealt": "blog image",
+    "path": "content/use-case",
+    "author": "ad3132ae0ff8"
+  }
+]

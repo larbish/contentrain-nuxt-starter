@@ -1,0 +1,15 @@
+[
+  {
+    "ID": "fdf1dd91a0b8",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T19:01:13.371Z",
+    "status": "publish",
+    "title": "The best content editing experience",
+    "subtitle": "Key values",
+    "description": "Contentrain's new content editing interfaces are designed for the marketing teams to create their content without any hassle.",
+    "imagesrc": "public/images/1705777138974_content editing.svg",
+    "imagealt": "Contentrain app view",
+    "buttonlabel": "Get started -- Free",
+    "buttonlink": "https://contentrain.io"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "name": "blogHero",
+    "modelId": "bloghero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "footer",
+    "modelId": "footer",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "header",
+    "modelId": "header",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "navigationItems",
+    "modelId": "navigationitems",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeHero",
+    "modelId": "homehero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeFeatures",
+    "modelId": "homefeatures",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeCollaborateTeams",
+    "modelId": "homecollaborateteams",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeContentStructure",
+    "modelId": "homecontentstructure",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeFeaturesOverview",
+    "modelId": "homefeaturesoverview",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeFeaturesOverviewItems",
+    "modelId": "homefeaturesoverviewitems",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "footerBanner",
+    "modelId": "footerbanner",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "blogCategories",
+    "modelId": "blogcategories",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "resourcesHero",
+    "modelId": "resourceshero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "resourcesItems",
+    "modelId": "resourcesitems",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "socialLinks",
+    "modelId": "sociallinks",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "blog",
+    "modelId": "blog",
+    "path": "content/blog",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
+  },
+  {
+    "name": "useCase",
+    "modelId": "usecase",
+    "path": "content/use-case",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
+  },
+  {
+    "name": "authors",
+    "modelId": "authors",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  }
+]

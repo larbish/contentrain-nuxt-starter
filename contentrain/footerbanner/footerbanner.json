@@ -1,0 +1,15 @@
+[
+  {
+    "ID": "fdf1dd91a0b8",
+    "title": "More than a Git CMS",
+    "logosrc": "public/images/banner-logo.svg",
+    "logoalt": "Contentrain app view",
+    "leftbuttonlabel": "See live demo",
+    "leftbuttonlink": "https://contentrain.io",
+    "rightbuttonlabel": "Get started — Free",
+    "rightbuttonlink": "https://contentrain.io",
+    "status": "publish",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T13:35:37.715Z"
+  }
+]
